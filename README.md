@@ -137,8 +137,7 @@
 
 ## 🖼️ 📷 Take a look at these project screenshots:
 ![Project Logo](https://github.com/ADVindiancoder/Online-BookStore/blob/main/Screensort/Screenshot%20(61).png)
-![Project Logo](https://github.com/ADVindiancoder/Online-BookStore/blob/main/Screensort/Screenshot%20(64).png
-)
+
 ![Project Logo](https://github.com/ADVindiancoder/Online-BookStore/blob/main/Screensort/Screenshot%20(65).png
 )
 ![Project Logo](https://github.com/ADVindiancoder/Online-BookStore/blob/main/Screensort/Screenshot%20(66).png)
