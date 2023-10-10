@@ -126,7 +126,7 @@
 
 - 🌐 Step 6: Default Username And Password For Admin Is "Admin" And "Admin"
 
-- 🌐 Step 7: The default Username And Password For User Is "shashi" And "shashi"
+- 🌐 Step 7: The default Username And Password For User Is "vinay" And "kumar"
 ## 🌐 FAQ
 - 📜 Question:1 Unable to Connect to Database?
 
