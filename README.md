@@ -1,7 +1,7 @@
 # 📚 OnlineBookStore
 ## 🚀 A Java Developer  Project
 
-### About
+## About
 - 📘 A user-friendly Online Bookstore project where users can:
 
 - Log in or register
@@ -10,7 +10,7 @@
 - Buy books
 - Get payment receipts
 - 
-### 👩‍💼 Administrators can also:
+## 👩‍💼 Administrators can also:
 
 - Add new books
 - Remove books
@@ -18,20 +18,20 @@
 - Maintain selling history
 - online bookstore
 
-### 🎯 Purpose
+## 🎯 Purpose
 - 🛍️ For Selling books online.
 - 📊 Maintaining books selling history.
 - 📚 Adding and managing books.
 - 🌟 User Friendly.
 - 🚀 For Implementation of Http Servlets in Java.
 - 📌 This is a Mini-project developed using Java, Jdbc, And Servlets.
-### 👨‍💼 Admin Has Following Access for this online store
+## 👨‍💼 Admin Has Following Access for this online store
 
 - ➕ Add New Books.
 - 👁️ View Books Available.
 - 🗑️ Remove Books.
 - 🔺 Increase Books Amount.
-### 👥 Users Have Following Access for this online store
+## 👥 Users Have Following Access for this online store
 - 🆕 Create New Account or Register.
 - 🔑 Login.
 - 📖 View Available Books.
@@ -39,23 +39,23 @@
 - 📊 Select Books Quantity.
 - 💳 Buy Books.
 - 🧾 Get Payment Receipt.
-### 🛠️ Technologies used:
-#### Front-End Development:
+## 🛠️ Technologies used:
+### Front-End Development:
 
 - 🌐 HTML
 - 🎨 CSS
 - 🚀 JavaScript
 - 🅱️ Bootstrap
-#### Back-End Development:
+### Back-End Development:
 
 - ☕ Java [JDK 8+]
 - 🛢️ JDBC
 - 🕸️ Servlet
-#### Database:
+### Database:
 
 - 📊 MySQL
 
-### 🛠️ Software And Tools Required:
+## 🛠️ Software And Tools Required:
 - 🌐 Git Setup Guide
 - ☕ Java JDK 8+ Setup Guide
 - 💼 Eclipse EE (Enterprise Edition) Setup Guide
@@ -87,8 +87,7 @@
 - 📂 insert into books values('9781492056300','Fluent Python','Luciano Ramalho',1014,5);
 
 - 📂 insert into books values('9781720043997','The Road to Learn React','Robin Wieruch',239,18);
-
- -📂 insert into books values('9780132350884','Clean Code: A Handbook of Agile Software Craftsmanship','Robert C Martin',288,3);
+- 📂 insert into books values('9780132350884','Clean Code: A Handbook of Agile Software Craftsmanship','Robert C Martin',288,3);
 
 - 📂 insert into books values('9780132181273','Domain-Driven Design','Eric Evans',560,28);
 
@@ -106,11 +105,11 @@
 
 - 📂 insert into users values('Vinay','Vinay','vinay','Kumar','Bihar','9931860964','vinaykumar860964@gmail.com',2);
 
-### 📜 commit;
+## 📜 commit;
 - 🚀 Importing and Running The Project Through Eclipse EE:
 - 🌐 Step 0: Open Eclipse Enterprise Edition. [Install, if not already installed.]
 
-- 🌐 Step 1: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository URL as: https://github.com/shashirajraja/onlinebookstore.git > Select master Branch > Next > Next > Finish.
+- 🌐 Step 1: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository URL as: git@github.com:ADVindiancoder/Online-BookStore.git > Select master Branch > Next > Next > Finish.
 
 - 🌐 Step 2. a: Go inside src/main/resources > application.properties and update the value of database details as per your usage, like db.driver, db.host, db.username, and db.password according to your installed MySQL/postgresql admin user credentials.
 
@@ -118,30 +117,29 @@
 
 - 🌐 Step 2.c: Right Click On Project > Build Path > Configure Build Path > Libraries > Remove and Update Any Libraries if Red Mark Exists > Finish.
 
-- 🌐 Step 3: [Only If Tomcat Server is not configured in Eclipse]: Right Click On Project > Run As > Run On Server > Select Tomcat V8.0 > (Select Tomcat V8.0 Installation Location If Asked) Next > Add onlinebookstore > Finish.
+- 🌐 Step 3: [Only If Tomcat Server is not configured in Eclipse]: Right Click On Project > Run As > Run On Server > Select Tomcat V8.0 > (Select Tomcat V8.0 Installation Location If Asked) Next > Add online BookStore > Finish.
 
 - 🌐 Step 4: In The Server Tab > Double Click On Tomcat Server > Ports > Change The Port Number For Http/1.1 To 8083 > Close And Save.
 
 - 🌐 Step 5: Right Click On Project > Run As > Run On Server > Select Tomcat v8.0 > Next > Add All> Done.
 
-- 🌐 Step 6: Check Running The Site At http://localhost:8083/onlinebookstore/
 
-- 🌐 Step 7: Default Username And Password For Admin Is "Admin" And "Admin"
+- 🌐 Step 6: Default Username And Password For Admin Is "Admin" And "Admin"
 
-- 🌐 Step 8: The default Username And Password For User Is "shashi" And "shashi"
-### 🌐 FAQ
+- 🌐 Step 7: The default Username And Password For User Is "shashi" And "shashi"
+## 🌐 FAQ
 - 📜 Question:1 Unable to Connect to Database?
 
 - 📝 Answer: Please check you have installed MySQL correctly and have updated the correct db details in application.properties file. Also, you can try doing maven clean install and force update the project and restart.
 
 
-### 🖼️ 📷 Take a look at these project screenshots:
+## 🖼️ 📷 Take a look at these project screenshots:
 
 - 📸 image1
 - 📸 image2
 - 📸 image3
 - 📸 image4
 - 📸 image5
-#### 🚀 Feel free to share your thoughts and suggestions for enhancing the project! We value your input and ideas! 🌟
+### 🚀 Feel free to share your thoughts and suggestions for enhancing the project! We value your input and ideas! 🌟
 
-#### 👨‍💼 This project idea was inspired by my experiences and skills gained during my Java DSA System Design course, with leadership by PW Skills (Ineuran).
+### 👨‍💼 This project idea was inspired by my experiences and skills gained during my Java DSA System Design course, with leadership by PW Skills (Ineuran).
