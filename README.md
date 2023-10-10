@@ -1,4 +1,6 @@
-# 📚 OnlineBookStore
+# 📚 Online BookStore
+![Project Logo](https://github.com/ADVindiancoder/Online-BookStore/blob/main/Screensort/Screenshot%20(63).png)
+
 ## 🚀 A Java Developer  Project
 
 ## About
@@ -134,16 +136,19 @@
 
 
 ## 🖼️ 📷 Take a look at these project screenshots:
-![Project Logo](https://user-images.githubusercontent.com/34605595/224770257-e18a3810-0457-4b78-bf46-cf82746708ee.png)
+![Project Logo](https://github.com/ADVindiancoder/Online-BookStore/blob/main/Screensort/Screenshot%20(61).png)
+![Project Logo](https://github.com/ADVindiancoder/Online-BookStore/blob/main/Screensort/Screenshot%20(64).png
+)
+![Project Logo](https://github.com/ADVindiancoder/Online-BookStore/blob/main/Screensort/Screenshot%20(65).png
+)
+![Project Logo](https://github.com/ADVindiancoder/Online-BookStore/blob/main/Screensort/Screenshot%20(66).png)
+![Project Logo](https://github.com/ADVindiancoder/Online-BookStore/blob/main/Screensort/Screenshot%20(68).png)
+![Project Logo](https://github.com/ADVindiancoder/Online-BookStore/blob/main/Screensort/Screenshot%20(69).png
+)
+![Project Logo](https://github.com/ADVindiancoder/Online-BookStore/blob/main/Screensort/Screenshot%20(70).png)
 
-![Project Logo](https://user-images.githubusercontent.com/34605595/224769637-37c34d4b-26e7-4d49-b990-4c09b260ec31.png)
-
-![Project Logo](https://user-images.githubusercontent.com/34605595/224769990-f440f74d-41b2-4629-ba1c-a87267f225d9.png)
-
-![Project Logo](https://user-images.githubusercontent.com/34605595/224770145-5902054f-5943-44ac-b02f-92097c8a6972.png)
 
 
-![Project Logo](https://user-images.githubusercontent.com/34605595/224770392-5a5478d2-98cc-44ee-8689-132b6b16af80.png)
 
 ### 🚀 Feel free to share your thoughts and suggestions for enhancing the project! We value your input and ideas! 🌟
 
